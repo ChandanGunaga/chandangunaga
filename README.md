@@ -29,7 +29,7 @@
 - My socials are listed below:
 
   - LinkedIn at [chandangunaga](https://www.linkedin.com/in/chandangunaga1307/)
-  - Portfolio/Website at [chandangunaga](chandangunaga.netlify.app)
+  - Portfolio/Website at [chandangunaga](https://chandangunaga.netlify.app/)
   - Instagram at [chandangunaga](https://www.instagram.com/chandangunaga/)
   - Mail me at [chadnangunaga1307@gmail.com](chandangunaga1307@gmail.com) regarding any work or if you just wanna connect
   
